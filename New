@@ -1,0 +1,8 @@
+#include<iostream>
+
+int main ()
+{
+std::cout<<"love you" << std::endl ;
+system("pause")
+return 0;
+}
